@@ -6,4 +6,4 @@
 
 <p>The data story Jupyter notebook on nbviewer can be viewed <a href = 'https://nbviewer.jupyter.org/github/MeierG/Data_Science_Projects/blob/master/Capstone_Project_1/data_story_restaurant_inspections.ipynb'> here.</a></p>
 
-<p>The final report in PDF format can be viewed <a href='https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Reports/Final-project.pdf'></a>here.</p>
+<p>The final report in PDF format can be viewed <a href='https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Reports/Final-project.pdf'>here.</a></p>
