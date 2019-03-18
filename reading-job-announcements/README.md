@@ -1,6 +1,6 @@
 # Digging deeper into Data Scientists and Data Analysts job postings
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MeierG/Data-Science-Projects/conda/master?urlpath=https%3A%2F%2Fgithub.com%2FMeierG%2FData-Science-Projects%2Fblob%2Fmaster%2Freading-job-announcements%2Freading-job-announcements.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MeierG/Data-Science-Projects/tree/master/reading-job-announcements/conda/master?filepath=https%3A%2F%2Fgithub.com%2FMeierG%2FData-Science-Projects%2Fblob%2Fmaster%2Freading-job-announcements%2Freading-job-announcements.ipynb)
 
 <p>Data scientists, data analysts, and other related job titles are in high demand, and there is no lack of articles and blog posting suggesting all the technical, statistical, and programming skills that an 'ideal' fill in the blank (data scientist, data analyst, data engineer, business analyst...) should have. But what are companies really looking for in their 'ideal' candidate?, what are the skills that I need to hone to get that job?</p>
 
