@@ -110,3 +110,8 @@ venv.bak/
 **/CVS/*
 .cvsignore
 */.cvsignore
+*/.xls
+*/.odt
+*.zip
+*/.html
+*/.pdf
