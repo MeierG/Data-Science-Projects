@@ -112,6 +112,8 @@ venv.bak/
 */.cvsignore
 */.xls
 */.odt
-*.zip
+
+# other
+*/.zip
 */.html
 */.pdf
