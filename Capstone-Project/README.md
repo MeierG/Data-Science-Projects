@@ -8,7 +8,7 @@
 
 ## Notebooks and Reports
 
-<p>The <b>final Jupyter notebook </b>rendered as a static HTML web page can be viewed on <a href='https://nbviewer.jupyter.org/github/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Predicting-food-inspections-results.ipynb#environment'>nbviewer</a>, or directly on github: <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Predicting-food-inspections-results.ipynb'>'Predicting-food-inspections-results.ipynb'</a></p>
+<p>See the <a href='https://nbviewer.jupyter.org/github/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Predicting-inspection-results-at-Food%20Establishments.ipynb'><b>final Jupyter notebook </b></a>rendered as a static HTML web page on nbviewer, or directly on github: <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Predicting-inspection-results-at-Food%20Establishments.ipynb'>'Predicting-food-inspections-results.ipynb'</a></p>
 
 <p>The <b>final report</b> in PDF format can be viewed <a href='https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Reports/Final-project.pdf'>here.</a></p>
 
