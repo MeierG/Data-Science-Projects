@@ -10,10 +10,12 @@
 
 <p>See the <a href='https://nbviewer.jupyter.org/github/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Predicting-inspection-results-at-Food%20Establishments.ipynb'><b>final Jupyter notebook </b></a>rendered as a static HTML web page on nbviewer, or directly on github: <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Predicting-inspection-results-at-Food%20Establishments.ipynb'>'Predicting-food-inspections-results.ipynb'</a></p>
 
-<p>The <b>final report</b> in PDF format can be viewed <a href='https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/Reports/Final-project.pdf'>here.</a></p>
+<p> <a href = 'https://nbviewer.jupyter.org/github/MeierG/Data-Science-Projects/blob/master/Capstone-Project/EDA.ipynb'> The Exploratory Data Analysis Jupyter notebook</a> can be viewed on nbviewer, or directly on github: <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project/EDA.ipynb'>'EDA.ipynb'</a></p>
 
-<p>The <b>final presentation</b> in PDF format can be viewed <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/final-presentation.pdf'>here</a></p>
+<p>The <a href='https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Reports/Report-final.pdf'> <b>final report</b> in PDF format can be viewed here.</a></p>
+
+<p>The <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project/Reports/slide_deck.pdf'><b>final presentation</b> in PDF format can be viewed here.</a></p>
 
 
-<p>The data story Jupyter notebook on nbviewer can be viewed <a href = 'https://nbviewer.jupyter.org/github/MeierG/Data_Science_Projects/blob/master/Capstone_Project_1/data_story_restaurant_inspections.ipynb'> here</a>, or directly on github: <a href = 'https://github.com/MeierG/Data-Science-Projects/blob/master/Capstone-Project1/restaurant-inspections-data-story.ipynb'>'restaurant-inspections-data-story.ipynb'</a></p>
+
 
